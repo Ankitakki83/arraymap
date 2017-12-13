@@ -1,0 +1,28 @@
+.BodyComponent {
+    width: 80%;
+    vertical-align: center;
+    background-color: #54b3eb;
+    height: 100%;
+    margin-left: 10%;
+}
+
+.BodyComponent_Bottom {
+    width: 80%;
+    vertical-align: center;
+    background-color: #54b3eb;
+    height: auto;
+    margin-top: 50px;
+    margin-left: 10%;
+}
+
+.BodyComponent_btn {
+    margin-top: 10px;
+    padding: 20px;
+}
+
+.ShowComponent {
+    width: 60%;
+    background-color: rgba(194, 196, 197, 0.87);
+    text-align: center;
+    margin-left: 22%;
+}
